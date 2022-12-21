@@ -1,4 +1,4 @@
-javac Linatoc_Calculator.java
-javac -d . Linatoc_Calculator.java
-jar -cvfm Linatoc_Calculator.jar manifest.mf *.class
-java -jar Linatoc_Calculator.jar
+javac PhoneContact.java
+javac -d . PhoneContact.java
+jar -cvfm PhoneContact.jar manifest.mf *.class
+java -jar PhoneContact.jar
